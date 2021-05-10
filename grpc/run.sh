@@ -1,0 +1,1 @@
+go run grpc/main.go --config=grpc/config.toml
