@@ -1,0 +1,3 @@
+[submodule "ego"]
+	path = ego
+	url = https://github.com/gotomicro/ego
